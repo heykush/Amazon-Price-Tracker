@@ -10,8 +10,8 @@ def notifyme(title, message):
     notification.notify(
         title=title,
         message=message,
-        app_name='gaurav',
-        app_icon="C:\\Users\\gkush\\Downloads\\aa.ico",
+        app_name='Gaurav',
+        app_icon=None,
         timeout=15
     )
 if __name__ == "__main__":
