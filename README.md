@@ -7,7 +7,7 @@
 It notify in your Window Notification Panel as price get low as you want
 
  ## Installation
-1. Clone the repo
+1. **Clone the repo**
 ```sh
 git clone https://github.com/heykush/Amazon-Price-Tracker.git
 ```
