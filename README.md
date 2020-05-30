@@ -9,7 +9,7 @@ It notify in your Window Notification Panel as price get low as you want
  ## Installation
 1. Clone the repo
 ```sh
-git clone https://github.com/heykush/Amazon-Pricker-Tracker.git
+git clone https://github.com/heykush/Amazon-Price-Tracker.git
 ```
 2. Install packages
  **Must to install**
