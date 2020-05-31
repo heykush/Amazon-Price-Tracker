@@ -5,6 +5,7 @@
 
 
 It notify in your Window Notification Panel as price get low as you want
+<img src="https://github.com/heykush/Amazon-Price-Tracker/blob/master/InkedAmazon-price-tracker_LI.png" align="center" />
 
  ## Installation
 1. **Clone the repo**
