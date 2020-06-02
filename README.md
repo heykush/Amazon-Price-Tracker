@@ -9,6 +9,7 @@ It notify in your Window Notification Panel as price get low as you want
 
 # DEMO
 ![demo](https://github.com/heykush/Amazon-Price-Tracker/blob/master/ezgif.com-gif-maker%20(1).gif?raw=true)
+![demo](https://github.com/heykush/Amazon-Price-Tracker/blob/master/ezgif.com-gif-maker%20(2).gif?raw=true)
 
  ## Installation
 1. **Clone the repo**
