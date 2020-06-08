@@ -1,4 +1,4 @@
-# Amazon-Pricker-Tracker :mag: [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
+# Amazon-Price-Tracker :mag: [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
@@ -14,7 +14,10 @@ It notify in your Window Notification Panel as price get low as you want
 ## Using .exe file
 ![demo](https://github.com/heykush/Amazon-Price-Tracker/blob/master/ezgif.com-gif-maker%20(2).gif?raw=true)
 
- ## Installation
+## Downlaod 
+Amazon Price Tracker exe file from [here](https://github.com/heykush/Amazon-Price-Tracker/blob/master/amazontacker.exe?raw=true)
+
+## Installation
 1. **Clone the repo**
 ```sh
 git clone https://github.com/heykush/Amazon-Price-Tracker.git
