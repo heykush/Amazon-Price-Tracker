@@ -14,7 +14,7 @@ It notify in your Window Notification Panel as price get low as you want
 ## Using .exe file
 ![demo](https://github.com/heykush/Amazon-Price-Tracker/blob/master/ezgif.com-gif-maker%20(2).gif?raw=true)
 
-## Downlaod 
+## Download 
 Amazon Price Tracker exe file from [here](https://github.com/heykush/Amazon-Price-Tracker/blob/master/amazontacker.exe?raw=true)
 
 ## Installation
